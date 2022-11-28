@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-28T06:00:40.712Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56" etag="5VqxcS6SHeZIQb3Qysl-" version="20.6.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-11-28T06:01:47.523Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56" etag="k_1a_VCUZW2sKBrGXXKP" version="20.6.0" type="github" pages="2">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="701" dy="427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -808,7 +808,7 @@
             <mxPoint x="630" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WPVFOJHf_XC9w_SOTUty-37" value="TotalCharge&lt;br&gt;&lt;br&gt;(sum of the products of each employee&#39;s BillingRate and&lt;br&gt;their WorkHour)" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="WPVFOJHf_XC9w_SOTUty-37" value="TotalCharge&lt;br&gt;&lt;br&gt;(sum of the products of each&lt;br&gt;consultant&#39;s BillingRate and&lt;br&gt;their WorkHour)" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="680" y="301" width="280" height="120" as="geometry" />
         </mxCell>
         <mxCell id="WPVFOJHf_XC9w_SOTUty-39" value="" style="endArrow=none;html=1;rounded=0;fontSize=16;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WPVFOJHf_XC9w_SOTUty-2" target="WPVFOJHf_XC9w_SOTUty-37">
